@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movie"
+        android:icon="@drawable/ic_baseline_local_movies_24"
+        android:title="@string/title_movie" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_baseline_bookmark_24"
+        android:title="@string/title_favorite" />
+
+    <item
+        android:id="@+id/profileScreen"
+        android:icon="@drawable/ic_baseline_person"
+        android:title="@string/profile" />
+
+
+
+</menu>
