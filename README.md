@@ -6,10 +6,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This repository for learn About Mobile Development at <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a> . detail course is <strong>"Become Android Developer Expert"</strong> at <a href="https://www.dicoding.com/"><strong>Dicoding</strong></a><br><br>
-       **NOTE :**  This repository have some branch , consist of practice, submission 1 & submission 2
-  > 1. Master - consists of a combination of branches practice & submission 1 and 2
-  > 2. Submission 1 - contains tasks from submission 1 ( **Get 4 Star** )
-  > 3. Submission 2 - contains tasks from submission 2 ( **Get 4 Star** )
+This repository has several branches, consisting of:
+
+* **Submission 1**: contains tasks from submission 1 (**Get 4 Star**)
+* **Submission 2**: contains tasks from submission 2 (**Get 4 Star**)
+* **Master**: consists of a combination of branches **Submission 1**, and **Submission 2**
 
 * #### Dependencies :
   - [Lifecycle & Livedata](https://developer.android.com/jetpack/androidx/releases/lifecycle)
