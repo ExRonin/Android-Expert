@@ -2,14 +2,14 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 [![circle-ci](https://circleci.com/gh/ExRonin/Android-Expert.svg?style=svg)](https://circleci.com/gh/ExRonin/Android-Expert/)
 
-
+ <h1 align="center">CineMov</h1>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This repository for learn About Mobile Development at <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a> . detail course is <strong>"Become Android Developer Expert"</strong> at <a href="https://www.dicoding.com/"><strong>Dicoding</strong></a><br><br>
        **NOTE :**  This repository have some branch , consist of practice, submission 1 & submission 2
   > 1. Master - consists of a combination of branches practice & submission 1 and 2
   > 2. Submission 1 - contains tasks from submission 1 ( **Get 4 Star** )
-
+  > 3. Submission 2 - contains tasks from submission 2 ( **Get 4 Star** )
 
 * #### Dependencies :
   - [Lifecycle & Livedata](https://developer.android.com/jetpack/androidx/releases/lifecycle)
@@ -37,3 +37,14 @@ This repository for learn About Mobile Development at <a href="https://grow.goog
   * [SSL Pinning Security](https://developer.android.com/training/articles/security-config)
   * [Dependency injection With Dagger Hilt](https://developer.android.com/training/dependency-injection)
   * [Lottie Animation AirBnb ](https://airbnb.io/lottie/#/)
+
+<!-- USAGE EXAMPLES -->
+## Usage
+![image](https://github.com/ExRonin/Android-Expert/assets/44882861/b065db6f-3d14-41c5-b364-413133225057)
+![image](https://github.com/ExRonin/Android-Expert/assets/44882861/66629d51-152a-4c8e-a326-fbed93a128ba)
+![image](https://github.com/ExRonin/Android-Expert/assets/44882861/3b30cd2e-1122-4954-96c2-6f98c3318d7f)
+![image](https://github.com/ExRonin/Android-Expert/assets/44882861/f810bcff-ab40-48c8-873e-2805ebcb5dc7)
+
+
+
+
