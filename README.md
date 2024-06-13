@@ -45,19 +45,19 @@ This repository has several branches, consisting of:
     <img src="https://github.com/ExRonin/Android-Expert/assets/44882861/b065db6f-3d14-41c5-b364-413133225057"
         alt="Movie App "    
         style="margin-right: 10px;"    
-        width="150" />
+        width="200" />
     <img src="https://github.com/ExRonin/Android-Expert/assets/44882861/66629d51-152a-4c8e-a326-fbed93a128ba"
         alt="Detail Movie"    
         style="margin-right: 10px;"    
-        width="150" />
+        width="200" />
     <img src="https://github.com/ExRonin/Android-Expert/assets/44882861/3b30cd2e-1122-4954-96c2-6f98c3318d7f"
         alt="Add To Favorite"    
         style="margin-right: 10px;"    
-        width="150" />
+        width="200" />
     <img src="https://github.com/ExRonin/Android-Expert/assets/44882861/f810bcff-ab40-48c8-873e-2805ebcb5dc7"
         alt="Search"    
         style="margin-right: 10px;"    
-        width="150" />
+        width="200" />
 </p>
 
 
